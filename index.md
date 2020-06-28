@@ -5,7 +5,7 @@ In dieser ersten Zeile passt eine bestimmte Anzahl von Woertern. In dieser erste
 In dieser ersten Zeile passt eine bestimmte Anzahl von Woertern.
 
 
-## Das ist eine Übersicht über die wichtigsten Eigenschaften
+## Das ist eine Uebersicht über die wichtigsten Eigenschaften
 
 * Sonntag
 * Montag
