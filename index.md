@@ -1,1 +1,10 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+## Das ist eine Übersicht über die wichtigsten Eigenschaften
+
+
+* Sonntag
+* Montag
+* bla bla
+* Essen
+* haha
+* mahh i check des net
+* ...
