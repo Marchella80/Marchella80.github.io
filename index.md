@@ -11,3 +11,7 @@ In dieser ersten Zeile passt eine bestimmte Anzahl von Woertern.
 * haha
 * mahh i check des net
 * ...
+
+As Snoopy said:
+> Wir haben 365 opportunities
+
