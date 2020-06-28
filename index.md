@@ -6,7 +6,6 @@ In dieser ersten Zeile passt eine bestimmte Anzahl von Woertern.
 
 
 ## Das ist eine Uebersicht über die wichtigsten Eigenschaften
-
 * Sonntag
 * Montag
 * bla bla
