@@ -14,4 +14,3 @@ In dieser ersten Zeile passt eine bestimmte Anzahl von Woertern.
 
 As Snoopy said:
 > Wir haben 365 opportunities
-
